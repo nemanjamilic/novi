@@ -1,3 +1,5 @@
 Drugi
 fajl
 txt
+izmena
+druga
