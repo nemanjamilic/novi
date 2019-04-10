@@ -3,3 +3,5 @@ fajl
 txt
 izmena
 druga
+izmena
+treca
