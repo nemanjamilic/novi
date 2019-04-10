@@ -5,3 +5,4 @@ izmena
 prva
 izmena
 druga
+nova izmena
